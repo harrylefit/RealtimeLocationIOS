@@ -1,0 +1,6 @@
+framework module Pods_RealtimeLocationShowcase_RealtimeLocationShowcaseUITests {
+  umbrella header "Pods-RealtimeLocationShowcase-RealtimeLocationShowcaseUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

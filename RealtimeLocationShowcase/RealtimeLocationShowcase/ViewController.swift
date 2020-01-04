@@ -8,14 +8,13 @@
 
 import UIKit
 import RealtimLocationControl
+import GoogleMaps
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+    
     }
-
-
 }
 
